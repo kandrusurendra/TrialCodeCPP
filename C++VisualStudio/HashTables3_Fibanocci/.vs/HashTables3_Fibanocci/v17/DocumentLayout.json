@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C\u002B\u002BVisualStudio\\HashTables3_Fibanocci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D53254-A44A-4800-9BBC-EE1CE593BA96}|HashTables3_Fibanocci\\HashTables3_Fibanocci.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\HashTables3_Fibanocci\\HashTables3_Fibanocci\\HashTables3_Fibanocci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9D53254-A44A-4800-9BBC-EE1CE593BA96}|HashTables3_Fibanocci\\HashTables3_Fibanocci.vcxproj|solutionrelative:HashTables3_Fibanocci\\HashTables3_Fibanocci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashTables3_Fibanocci.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\HashTables3_Fibanocci\\HashTables3_Fibanocci\\HashTables3_Fibanocci.cpp",
+              "RelativeDocumentMoniker": "HashTables3_Fibanocci\\HashTables3_Fibanocci.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\HashTables3_Fibanocci\\HashTables3_Fibanocci\\HashTables3_Fibanocci.cpp",
+              "RelativeToolTip": "HashTables3_Fibanocci\\HashTables3_Fibanocci.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T13:47:30.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

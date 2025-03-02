@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C\u002B\u002BVisualStudio\\SumOfTwoNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DACB3345-8336-4184-97FC-E57FFC20BFBD}|SumOfTwoNumbers\\SumOfTwoNumbers.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\SumOfTwoNumbers\\SumOfTwoNumbers\\SumOfTwoNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DACB3345-8336-4184-97FC-E57FFC20BFBD}|SumOfTwoNumbers\\SumOfTwoNumbers.vcxproj|solutionrelative:SumOfTwoNumbers\\SumOfTwoNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumOfTwoNumbers.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\SumOfTwoNumbers\\SumOfTwoNumbers\\SumOfTwoNumbers.cpp",
+              "RelativeDocumentMoniker": "SumOfTwoNumbers\\SumOfTwoNumbers.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\SumOfTwoNumbers\\SumOfTwoNumbers\\SumOfTwoNumbers.cpp",
+              "RelativeToolTip": "SumOfTwoNumbers\\SumOfTwoNumbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T04:28:31.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  LambdaImprovements.cpp
+C:\Coding\C++VisualStudio\LambdaImprovements\LambdaImprovements\LambdaImprovements.cpp(26,22): warning C4244: 'return': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Coding\C++VisualStudio\LambdaImprovements\LambdaImprovements\LambdaImprovements.cpp(32,22): warning C4244: 'return': conversion from 'unsigned __int64' to 'float', possible loss of data
+  LambdaImprovements.vcxproj -> C:\Coding\C++VisualStudio\LambdaImprovements\LambdaImprovements\x64\Debug\LambdaImprovements.exe

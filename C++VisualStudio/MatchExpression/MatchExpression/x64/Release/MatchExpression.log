@@ -1,0 +1,12 @@
+﻿  MatchExpression.cpp
+C:\Coding\C++VisualStudio\MatchExpression\MatchExpression\MatchExpression.cpp(13,5): error C3861: 'match': identifier not found
+C:\Coding\C++VisualStudio\MatchExpression\MatchExpression\MatchExpression.cpp(14,12): error C2059: syntax error: '>'
+C:\Coding\C++VisualStudio\MatchExpression\MatchExpression\MatchExpression.cpp(19,15): error C2143: syntax error: missing ';' before '<<'
+C:\Coding\C++VisualStudio\MatchExpression\MatchExpression\MatchExpression.cpp(19,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Coding\C++VisualStudio\MatchExpression\MatchExpression\MatchExpression.cpp(19,10): error C2371: 'std::cout': redefinition; different basic types
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\iostream(40,75):
+      see declaration of 'std::cout'
+  
+C:\Coding\C++VisualStudio\MatchExpression\MatchExpression\MatchExpression.cpp(19,15): error C2059: syntax error: '<<'
+C:\Coding\C++VisualStudio\MatchExpression\MatchExpression\MatchExpression.cpp(20,1): error C2059: syntax error: '}'
+C:\Coding\C++VisualStudio\MatchExpression\MatchExpression\MatchExpression.cpp(20,1): error C2143: syntax error: missing ';' before '}'

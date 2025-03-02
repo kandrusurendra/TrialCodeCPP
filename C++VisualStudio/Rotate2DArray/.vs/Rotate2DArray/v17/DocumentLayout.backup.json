@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C\u002B\u002BVisualStudio\\Rotate2DArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C72020-D2F9-4192-81B4-9815351BDA4C}|Rotate2DArray\\Rotate2DArray.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\Rotate2DArray\\Rotate2DArray\\Rotate2DArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6C72020-D2F9-4192-81B4-9815351BDA4C}|Rotate2DArray\\Rotate2DArray.vcxproj|solutionrelative:Rotate2DArray\\Rotate2DArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rotate2DArray.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\Rotate2DArray\\Rotate2DArray\\Rotate2DArray.cpp",
+              "RelativeDocumentMoniker": "Rotate2DArray\\Rotate2DArray.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\Rotate2DArray\\Rotate2DArray\\Rotate2DArray.cpp",
+              "RelativeToolTip": "Rotate2DArray\\Rotate2DArray.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T09:21:24.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

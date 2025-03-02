@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C\u002B\u002BVisualStudio\\StackOverflowException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEC39DA-E5A2-4E01-819F-C6C04E77F83B}|StackOverflowException\\StackOverflowException.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\StackOverflowException\\StackOverflowException\\StackOverflowException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEC39DA-E5A2-4E01-819F-C6C04E77F83B}|StackOverflowException\\StackOverflowException.vcxproj|solutionrelative:StackOverflowException\\StackOverflowException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackOverflowException.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\StackOverflowException\\StackOverflowException\\StackOverflowException.cpp",
+              "RelativeDocumentMoniker": "StackOverflowException\\StackOverflowException.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\StackOverflowException\\StackOverflowException\\StackOverflowException.cpp",
+              "RelativeToolTip": "StackOverflowException\\StackOverflowException.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T06:31:07.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
