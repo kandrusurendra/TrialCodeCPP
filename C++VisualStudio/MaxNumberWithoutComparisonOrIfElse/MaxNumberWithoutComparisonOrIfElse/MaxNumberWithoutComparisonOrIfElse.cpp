@@ -14,7 +14,7 @@ int max(int a, int b) {
 
 int main() {
     int num1 = 3;
-    int num2 = 6;
+    int num2 = 4;
     int result = max(num1, num2);
     cout << "The maximum of " << num1 << " and " << num2 << " is " << result << endl;
     return 0;

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C\u002B\u002BVisualStudio\\RangeCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4655F079-244B-4950-84F4-9028BED1802B}|RangeCheck\\RangeCheck.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\RangeCheck\\RangeCheck\\RangeCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4655F079-244B-4950-84F4-9028BED1802B}|RangeCheck\\RangeCheck.vcxproj|solutionrelative:RangeCheck\\RangeCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RangeCheck.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\RangeCheck\\RangeCheck\\RangeCheck.cpp",
+              "RelativeDocumentMoniker": "RangeCheck\\RangeCheck.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\RangeCheck\\RangeCheck\\RangeCheck.cpp*",
+              "RelativeToolTip": "RangeCheck\\RangeCheck.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T04:05:37.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

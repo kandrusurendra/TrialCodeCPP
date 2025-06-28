@@ -18,6 +18,15 @@ void printTriangle(int depth)
 		cout << endl;
 	}
 }
+
+template <typename T>
+requires is_arithmetic_v<T>
+T sum(T a, T b)
+{
+	return a + b;
+}
+
+
 int main()
 {
 	int depth;
@@ -25,6 +34,12 @@ int main()
 	cin >> depth;
 
 	printTriangle(depth);
+
+	cout << sum(1, 2) << endl;
+	cout << sum(1.1, 2.2) << endl;
+	cout << sum(1.1f, 2.2f) << endl;
+	//count << sum(1.1, 2) << endl;
+
 }
 
 

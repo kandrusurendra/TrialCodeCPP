@@ -1,0 +1,5 @@
+#initial number of people
+INIT_PEOPLE = 100;
+
+#initial gender ratio
+INIT_GENDER_RATIO = 100;
