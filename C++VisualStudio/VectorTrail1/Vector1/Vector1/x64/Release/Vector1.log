@@ -1,0 +1,4 @@
+﻿  Vector1.cpp
+C:\Coding\C++VisualStudio\VectorTrail1\Vector1\Vector1\Vector1.cpp(44,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Coding\C++VisualStudio\VectorTrail1\Vector1\Vector1\Vector1.cpp(45,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'C:\Coding\C++VisualStudio\VectorTrail1\Vector1\x64\Release\Vector1.exe'

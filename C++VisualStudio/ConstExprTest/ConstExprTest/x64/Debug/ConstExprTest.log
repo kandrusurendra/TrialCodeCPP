@@ -1,0 +1,3 @@
+﻿  ConstExprTest.cpp
+C:\Coding\C++VisualStudio\ConstExprTest\ConstExprTest\ConstExprTest.cpp(10,13): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+  ConstExprTest.vcxproj -> C:\Coding\C++VisualStudio\ConstExprTest\x64\Debug\ConstExprTest.exe

@@ -1,0 +1,3 @@
+﻿  MineSweeperGame.cpp
+C:\Coding\C++VisualStudio\MineSweeper\MineSweeperGame\MineSweeperGame\MineSweeperGame.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MineSweeperGame.vcxproj -> C:\Coding\C++VisualStudio\MineSweeper\MineSweeperGame\x64\Debug\MineSweeperGame.exe

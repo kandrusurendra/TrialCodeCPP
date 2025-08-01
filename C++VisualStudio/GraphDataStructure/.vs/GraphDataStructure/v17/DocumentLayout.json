@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C\u002B\u002BVisualStudio\\GraphDataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8BA41-0AF0-4AC6-8AF5-690DA8BC20CB}|GraphDataStructure\\GraphDataStructure.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\GraphDataStructure\\GraphDataStructure\\GraphDataStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49F8BA41-0AF0-4AC6-8AF5-690DA8BC20CB}|GraphDataStructure\\GraphDataStructure.vcxproj|solutionrelative:GraphDataStructure\\GraphDataStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphDataStructure.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\GraphDataStructure\\GraphDataStructure\\GraphDataStructure.cpp",
+              "RelativeDocumentMoniker": "GraphDataStructure\\GraphDataStructure.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\GraphDataStructure\\GraphDataStructure\\GraphDataStructure.cpp",
+              "RelativeToolTip": "GraphDataStructure\\GraphDataStructure.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T09:04:01.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

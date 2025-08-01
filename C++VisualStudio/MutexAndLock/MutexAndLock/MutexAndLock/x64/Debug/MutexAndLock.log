@@ -1,0 +1,2 @@
+﻿  MutexAndLock.cpp
+LINK : fatal error LNK1168: cannot open C:\Coding\C++VisualStudio\MutexAndLock\MutexAndLock\x64\Debug\MutexAndLock.exe for writing

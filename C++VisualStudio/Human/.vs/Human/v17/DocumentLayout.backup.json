@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|solutionrelative:Human\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Execute.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|solutionrelative:Human\\Execute.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|solutionrelative:Human\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\HumanHistograms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|solutionrelative:Human\\HumanHistograms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\HumanHistograms.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|solutionrelative:Human\\HumanHistograms.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\FinancialBehaviourAlgo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|solutionrelative:Human\\FinancialBehaviourAlgo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\FinancialBehaviourAlgo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A7F76AF-0406-4EFE-93B6-5F5DE39D3326}|Human\\Human.vcxproj|solutionrelative:Human\\FinancialBehaviourAlgo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\thread||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "thread",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\thread",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\thread",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\thread",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\thread",
+              "ViewState": "AgIAACcAAAAAAAAAAAASwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-06T07:17:56.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Execute.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Execute.cpp",
+              "RelativeDocumentMoniker": "Human\\Execute.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Execute.cpp",
+              "RelativeToolTip": "Human\\Execute.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T05:06:35.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HumanHistograms.h",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\HumanHistograms.h",
+              "RelativeDocumentMoniker": "Human\\HumanHistograms.h",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\HumanHistograms.h",
+              "RelativeToolTip": "Human\\HumanHistograms.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T12:05:53.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HumanHistograms.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\HumanHistograms.cpp",
+              "RelativeDocumentMoniker": "Human\\HumanHistograms.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\HumanHistograms.cpp",
+              "RelativeToolTip": "Human\\HumanHistograms.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T10:18:10.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.h",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Human.h",
+              "RelativeDocumentMoniker": "Human\\Human.h",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Human.h",
+              "RelativeToolTip": "Human\\Human.h",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T05:03:40.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinancialBehaviourAlgo.h",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\FinancialBehaviourAlgo.h",
+              "RelativeDocumentMoniker": "Human\\FinancialBehaviourAlgo.h",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\FinancialBehaviourAlgo.h",
+              "RelativeToolTip": "Human\\FinancialBehaviourAlgo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-16T04:51:51.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinancialBehaviourAlgo.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\FinancialBehaviourAlgo.cpp",
+              "RelativeDocumentMoniker": "Human\\FinancialBehaviourAlgo.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\FinancialBehaviourAlgo.cpp",
+              "RelativeToolTip": "Human\\FinancialBehaviourAlgo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T04:51:31.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Human.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Human.cpp",
+              "RelativeDocumentMoniker": "Human\\Human.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\Human\\Human\\Human.cpp",
+              "RelativeToolTip": "Human\\Human.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T03:14:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

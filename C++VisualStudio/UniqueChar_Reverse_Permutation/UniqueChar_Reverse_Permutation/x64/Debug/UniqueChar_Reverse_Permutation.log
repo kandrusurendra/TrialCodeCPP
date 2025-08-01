@@ -1,0 +1,3 @@
+﻿  UniqueChar_Reverse_Permutation.cpp
+C:\Coding\C++VisualStudio\UniqueChar_Reverse_Permutation\UniqueChar_Reverse_Permutation\UniqueChar_Reverse_Permutation.cpp(61,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UniqueChar_Reverse_Permutation.vcxproj -> C:\Coding\C++VisualStudio\UniqueChar_Reverse_Permutation\x64\Debug\UniqueChar_Reverse_Permutation.exe

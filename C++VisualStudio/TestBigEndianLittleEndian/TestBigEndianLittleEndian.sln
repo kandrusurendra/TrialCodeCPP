@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestBigEndianLittleEndian", "TestBigEndianLittleEndian\TestBigEndianLittleEndian.vcxproj", "{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}.Debug|x64.ActiveCfg = Debug|x64
+		{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}.Debug|x64.Build.0 = Debug|x64
+		{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}.Debug|x86.ActiveCfg = Debug|Win32
+		{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}.Debug|x86.Build.0 = Debug|Win32
+		{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}.Release|x64.ActiveCfg = Release|x64
+		{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}.Release|x64.Build.0 = Release|x64
+		{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}.Release|x86.ActiveCfg = Release|Win32
+		{FED3AE47-9D89-47A2-9BF0-CBDDB8C24362}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60094372-A76B-4CC6-BDAE-6AB5627F0BAB}
+	EndGlobalSection
+EndGlobal

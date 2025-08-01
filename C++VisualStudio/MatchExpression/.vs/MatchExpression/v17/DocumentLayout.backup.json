@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C\u002B\u002BVisualStudio\\MatchExpression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F38778-1A7C-4412-983D-2531569B659B}|MatchExpression\\MatchExpression.vcxproj|C:\\Coding\\C\u002B\u002BVisualStudio\\MatchExpression\\MatchExpression\\MatchExpression.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03F38778-1A7C-4412-983D-2531569B659B}|MatchExpression\\MatchExpression.vcxproj|solutionrelative:MatchExpression\\MatchExpression.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchExpression.cpp",
+              "DocumentMoniker": "C:\\Coding\\C\u002B\u002BVisualStudio\\MatchExpression\\MatchExpression\\MatchExpression.cpp",
+              "RelativeDocumentMoniker": "MatchExpression\\MatchExpression.cpp",
+              "ToolTip": "C:\\Coding\\C\u002B\u002BVisualStudio\\MatchExpression\\MatchExpression\\MatchExpression.cpp",
+              "RelativeToolTip": "MatchExpression\\MatchExpression.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T08:18:16.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
